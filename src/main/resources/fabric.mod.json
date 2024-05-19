@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "forcefieldreborn",
+	"version": "${version}",
+	"name": "ForcefieldReborn",
+	"description": "TechReborn addon that adds forcefields",
+	"authors": [
+		"40fpsss"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/forcefieldreborn/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"org.ffpsss.forcefieldreborn.ForcefieldReborn"
+		],
+		"client": [
+			"org.ffpsss.forcefieldreborn.ForcefieldRebornClient"
+		]
+	},
+	"mixins": [
+		"forcefieldreborn.mixins.json",
+		{
+			"config": "forcefieldreborn.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "~1.19",
+		"java": ">=17",
+		"fabric": "*",
+		"techreborn": "*"
+	}
+}
