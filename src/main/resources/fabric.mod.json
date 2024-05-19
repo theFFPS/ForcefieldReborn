@@ -8,10 +8,10 @@
 		"40fpsss"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/theFFPS/ForcefieldReborn",
+		"sources": "https://github.com/theFFPS/ForcefieldReborn"
 	},
-	"license": "CC0-1.0",
+	"license": "GPLv3",
 	"icon": "assets/forcefieldreborn/icon.png",
 	"environment": "*",
 	"entrypoints": {
