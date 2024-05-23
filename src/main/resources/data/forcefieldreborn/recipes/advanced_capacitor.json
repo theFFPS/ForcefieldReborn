@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PUP",
+        "WCW",
+        "PBP"
+    ],
+    "key": {
+        "P": {
+            "item": "techreborn:titanium_plate"
+        },
+        "W": {
+            "item": "techreborn:hv_cable"
+        },
+        "C": {
+            "item": "techreborn:advanced_machine_casing"
+        },
+        "U": {
+            "item": "techreborn:high_voltage_su"
+        },
+        "B": {
+            "item": "techreborn:lapotronic_orb"
+        }
+    },
+    "result": {
+        "item": "forcefieldreborn:advanced_capacitor"
+    }
+}

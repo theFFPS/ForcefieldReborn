@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PHP",
+        "WCW",
+        "PIP"
+    ],
+    "key": {
+        "P": {
+            "item": "techreborn:titanium_plate"
+        },
+        "W": {
+            "item": "techreborn:insulated_hv_cable"
+        },
+        "C": {
+            "item": "techreborn:advanced_machine_casing"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        },
+        "I": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "forcefieldreborn:inventory_drop_extension"
+    }
+}
