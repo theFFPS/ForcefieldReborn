@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "forcefieldreborn:forcicium_ore",
+        "forcefieldreborn:advanced_capacitor",
+        "forcefieldreborn:basic_capacitor",
+        "forcefieldreborn:high_advanced_capacitor",
+        "forcefieldreborn:inventory_drop_extension"
+    ]
+}

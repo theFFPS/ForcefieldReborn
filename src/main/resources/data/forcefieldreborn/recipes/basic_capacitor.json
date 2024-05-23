@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PUP",
+        "WCW",
+        "PBP"
+    ],
+    "key": {
+        "P": {
+            "item": "techreborn:steel_plate"
+        },
+        "W": {
+            "item": "techreborn:gold_cable"
+        },
+        "C": {
+            "item": "techreborn:basic_machine_casing"
+        },
+        "U": {
+            "item": "techreborn:low_voltage_su"
+        },
+        "B": {
+            "item": "techreborn:lithium_ion_battery"
+        }
+    },
+    "result": {
+        "item": "forcefieldreborn:basic_capacitor"
+    }
+}

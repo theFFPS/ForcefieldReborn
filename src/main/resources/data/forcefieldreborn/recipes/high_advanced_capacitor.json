@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PUP",
+        "WCW",
+        "PBP"
+    ],
+    "key": {
+        "P": {
+            "item": "techreborn:iridium_plate"
+        },
+        "W": {
+            "item": "techreborn:superconductor_cable"
+        },
+        "C": {
+            "item": "techreborn:industrial_machine_casing"
+        },
+        "U": {
+            "item": "techreborn:interdimensional_su"
+        },
+        "B": {
+            "item": "techreborn:lapotronic_orbpack"
+        }
+    },
+    "result": {
+        "item": "forcefieldreborn:high_advanced_capacitor"
+    }
+}
