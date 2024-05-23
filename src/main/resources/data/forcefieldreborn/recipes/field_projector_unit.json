@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WDW",
+        "SCE",
+        "FFF"
+    ],
+    "key": {
+        "F": {
+            "item": "forcefieldreborn:forcicium"
+        },
+        "W": {
+            "item": "techreborn:glassfiber_cable"
+        },
+        "C": {
+            "item": "techreborn:industrial_circuit"
+        },
+        "D": {
+            "item": "techreborn:digital_display"
+        },
+        "S": {
+            "item": "techreborn:data_storage_chip"
+        },
+        "E": {
+            "item": "techreborn:energy_flow_chip"
+        }
+    },
+    "result": {
+        "item": "forcefieldreborn:field_projector_unit"
+    }
+}

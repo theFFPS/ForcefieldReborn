@@ -1,9 +1,9 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "PHP",
+        "PIP",
         "WCW",
-        "PIP"
+        "PHP"
     ],
     "key": {
         "P": {
@@ -15,14 +15,14 @@
         "C": {
             "item": "techreborn:advanced_machine_casing"
         },
-        "H": {
-            "item": "minecraft:hopper"
-        },
         "I": {
             "item": "minecraft:chest"
+        },
+        "H": {
+            "item": "minecraft:hopper"
         }
     },
     "result": {
-        "item": "forcefieldreborn:inventory_drop_extension"
+        "item": "forcefieldreborn:extension_controller"
     }
 }

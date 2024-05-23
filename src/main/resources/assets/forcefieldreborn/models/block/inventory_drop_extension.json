@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "forcefieldreborn:block/inventory_drop_extension"
-    }
-}

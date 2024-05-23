@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "forcefieldreborn:inventory_drop_extension"
+                    "name": "forcefieldreborn:extension_controller"
                 }
             ]
         }

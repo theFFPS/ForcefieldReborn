@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "forcefieldreborn:item/field_projector_unit"
+    }
+}
